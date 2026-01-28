@@ -1,5 +1,5 @@
-# Ticket 5: Display Detailed Weather Metrics
+# Ticket 3: Implement severe weather alerts
 
-Implement a feature that shows users detailed weather metrics, including temperature, humidity, wind speed, and precipitation levels for their selected locations.
+Create a feature that sends notifications to users for severe weather conditions in their area. This will help users stay informed and take necessary precautions during dangerous weather events.
 
-Reason: Detailed metrics enhance user understanding of weather conditions, aiding in better planning.
+Reason: Severe weather alerts are crucial for user safety and preparedness, ensuring timely information during critical situations.
