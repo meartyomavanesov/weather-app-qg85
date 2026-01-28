@@ -1,5 +1,5 @@
-# Ticket 4: Enable customizable location settings
+# Ticket 5: Display Detailed Weather Metrics
 
-Implement a feature that allows users to set and save multiple preferred locations for weather updates. This will enable users to quickly access weather information for different areas they are interested in.
+Implement a feature that shows users detailed weather metrics, including temperature, humidity, wind speed, and precipitation levels for their selected locations.
 
-Reason: Customizable location settings enhance user experience by providing relevant weather information for multiple locations.
+Reason: Detailed metrics enhance user understanding of weather conditions, aiding in better planning.
